@@ -6,4 +6,14 @@
 
 body {
 	padding: 0;
+	background-color: #556;
+}
+
+article {
+	width: 30%;
+	float: left;
+	margin: 20px;
+	background-color: #f2f2f2;
+	border-radius: 10px;
+	height: 450px;
 }
